@@ -1,0 +1,24 @@
+========== HEADER & NAV ==========
+✅.nav__logo
+Toolbox
+
+✅.nav__link
+Home - Tools - Prices - Special - Contact
+
+
+========== SECTION HOME ==========
+🔹 Comments
+For more images, visit: https://www.figma.com/community/file/1466075511794928417
+Edit the color in Figma and export the image.
+
+✅.home__title
+Build with the <br> AI Smart Toolbox
+
+✅.home__description
+Create and connect intelligent IA tools to boost the work 
+of developers and businesses, connecting multiple AI 
+configurations and accelerating workflow between users.
+
+✅.home__button
+Apply for Beta
+Learn More
